@@ -4,13 +4,17 @@
   "description": "backend practice in express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
-  "module": "",
+  "type": "module",
   "keywords": [
     "js",
     "express"
   ],
-  "author": "raheel",
-  "license": "ISC"
+  "author": "Raheel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
 }
