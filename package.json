@@ -1,0 +1,16 @@
+{
+  "name": "express-backend-",
+  "version": "1.0.0",
+  "description": "backend practice in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "module": "",
+  "keywords": [
+    "js",
+    "express"
+  ],
+  "author": "raheel",
+  "license": "ISC"
+}
